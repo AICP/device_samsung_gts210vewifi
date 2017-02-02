@@ -33,5 +33,5 @@
     "repository": "TheMuppets/proprietary_vendor_samsung",
     "target_path": "vendor/samsung",
     "branch": "cm-14.1"
-  },
+  }
 ]
